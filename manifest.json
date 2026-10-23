@@ -1,0 +1,9 @@
+{
+  "name": "Expiry Checker CS77",
+  "short_name": "Expiry",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": []
+}
