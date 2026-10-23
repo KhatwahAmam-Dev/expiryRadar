@@ -1,10 +1,10 @@
-import { initAuth } from './auth.js';
-import { loadMasterData, initUpload } from './master.js';
-import { initScanner } from './scanner.js';
-import { renderScanList } from './scan-list.js';
-import { openExport } from './export.js';
-import { showModal, toast } from './utils.js';
-import { idbGetAll } from './db.js';
+import { initAuth } from './js/auth.js';
+import { loadMasterData, initUpload } from './js/master.js';
+import { initScanner } from './js/scanner.js';
+import { renderScanList } from './js/scan-list.js';
+import { openExport } from './js/export.js';
+import { showModal, toast } from './js/utils.js';
+import { idbGetAll } from './js/db.js';
 
 // State global aplikasi
 const state = {
